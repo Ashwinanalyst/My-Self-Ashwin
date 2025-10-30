@@ -14,5 +14,5 @@ Passionate about data visualization, dashboards, and insights.
 - E-Commerce Insights – SQL
 
 ### 📫 Connect with me
-LinkedIn: your link here
+LinkedIn: http://www.linkedin.com/in/ashwin-m-808aa2363
 
