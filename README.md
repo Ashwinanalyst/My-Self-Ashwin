@@ -29,6 +29,10 @@ Tools & Platforms:  Excel, Power BI
 
 Databases:  MySQL
 
+Soft Skills
+
+ Strategic Planning, Problem Solving, Time Management & Adaptability, Team Management , Relationship Management, Market Research
+
 ### 📂 Projects
 Project in MBA
 
