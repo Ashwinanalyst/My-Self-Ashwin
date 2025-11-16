@@ -32,7 +32,7 @@ Databases:  MySQL
 ### 📂 Projects
 Project in MBA
 
-👉 https://github.com/Ashwinanalyst/Project-in-MBA .
+👉 https://github.com/Ashwinanalyst/Project-in-MBA  
 
 📌 MBA project repository with documentation and analysis.
 
