@@ -36,7 +36,7 @@ Soft Skills
 ### 📂 Projects
 Project in MBA
 
-👉[Project In MBA](https://github.com/Ashwinanalyst/Project-in-MBA)  
+👉🔗[Project In MBA](https://github.com/Ashwinanalyst/Project-in-MBA)  
 
 📌 MBA project repository with documentation and analysis.
 
@@ -56,8 +56,8 @@ Global AI Job Market & Salary Analysis (2025)
 
 Email: ashwinmba55@gmail.com
 
-Linkedin: [Linkedin](https://www.linkedin.com/in/ashwin-m-808aa2363)
+Linkedin: 🔗[Linkedin](https://www.linkedin.com/in/ashwin-m-808aa2363)
 
-Portfolio: [Github](https://github.com/Ashwinanalyst/My-Self-Ashwin/edit/main/README.md)
+Portfolio: 🔗[Github](https://github.com/Ashwinanalyst/My-Self-Ashwin/edit/main/README.md)
 
 
