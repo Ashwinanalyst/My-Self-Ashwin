@@ -4,7 +4,7 @@ Data Analystics — I am looking for a Job .
 
 🌱 I’m currently learning: Excel, Power BI, SQL, Numoys, Pandas, JAVA , AI
 
-💬 Ask me about: Quick Laner
+💬 Ask me about: Quick Learner
 
 📫 How to reach me: ashwinmba55@gmail.com | ashwin-m-808aa2363 | 
 
