@@ -56,8 +56,8 @@ Global AI Job Market & Salary Analysis (2025)
 
 Email: ashwinmba55@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/ashwin-m-808aa2363)
+Linkedin: [Linkedin](https://www.linkedin.com/in/ashwin-m-808aa2363)
 
-Portfolio:[Github](https://github.com/Ashwinanalyst/My-Self-Ashwin/edit/main/README.md)
+Portfolio: [Github](https://github.com/Ashwinanalyst/My-Self-Ashwin/edit/main/README.md)
 
 
