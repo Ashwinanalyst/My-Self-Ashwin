@@ -6,7 +6,7 @@ Data Analystics — I am looking for a Job .
 
 💬 Ask me about: Quick Learner
 
-📫 How to reach me: ashwinmba55@gmail.com | ashwin-m-808aa2363 | 
+📫 How to reach me: ashwinmba55@gmail.com | 🔗[Linkedin](https://www.linkedin.com/in/ashwin-m-808aa2363) | 
 
 ### 🎓 MBA | 📊 Data Analytics Learner  
 Passionate about data visualization, dashboards, and insights.
